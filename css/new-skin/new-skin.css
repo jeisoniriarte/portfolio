@@ -686,6 +686,7 @@ input[type="file"] {
 .card-started .profile .image {
 	margin: 80px 0 20px 0;
 	width: 146px;
+	height: 146px;
 }
 
 .card-started .profile .title,

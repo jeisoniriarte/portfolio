@@ -1,10 +1,4 @@
 /*
-*   Author: beshleyua
-*   Author URL: http://themeforest.net/user/beshleyua
-*/
-
-
-/*
 	Preloader
 */
 
@@ -448,6 +442,7 @@ $(function () {
 	*/
 
 	$('.content .title').each(function(index) {
+		
 	    var title = $(this).text().split(' ');
 	    if(title.length>1){
 		    var firstWord = title[0];
